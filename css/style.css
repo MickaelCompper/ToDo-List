@@ -231,3 +231,35 @@ todo List
 .clear-btn:hover {
   color: var(--red-dark);
 }
+/* *****************************************************************
+Porfolio
+***************************************************************** */
+
+.porfolio {
+	background: radial-gradient(circle at 30% 120%, #ffb56b, #ffaa65, #ff8953, #ff4e3a, #ff1a3c, #f5006b, #d10098, #ab00ad, #67008d, #3d0074, #260062, #1f005c);
+	;
+	padding: .5rem 0;
+	text-align: center;
+	color: white;
+	position: fixed;
+	bottom: 0;
+	width: 100vw;
+}
+
+.porfolio a {
+	color: aquamarine;
+	display: contents;
+}
+
+.porfolio .fa-brands {
+	font-size: 3.2rem;
+	margin-right: 1rem;
+}
+
+.porfolio .fa-github {
+	color: #BABBBD;
+}
+
+.porfolio .fa-linkedin-in {
+	color: #03679E;
+}
